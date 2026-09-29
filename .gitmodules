@@ -1,0 +1,9 @@
+[submodule "ibus-rime"]
+	path = ibus-rime
+	url = https://github.com/rime/ibus-rime.git
+[submodule "librime"]
+	path = librime
+	url = https://github.com/rime/librime.git
+[submodule "plum"]
+	path = plum
+	url = https://github.com/rime/plum.git
